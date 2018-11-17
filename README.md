@@ -1,9 +1,9 @@
 
 ## Books
-[Network Security Assessment, 2nd Ed.](http://shop.oreilly.com/product/9780596510305.do)
-[Hacking: The Art of Exploitation, 2nd Ed.](https://nostarch.com/hacking2.htm)
+- [Network Security Assessment, 2nd Ed.](http://shop.oreilly.com/product/9780596510305.do)
+- [Hacking: The Art of Exploitation, 2nd Ed.](https://nostarch.com/hacking2.htm)
 
-## Resources by Topic
+## Other Resources by Topic
 
 ### Information Gathering
 #### Passive
