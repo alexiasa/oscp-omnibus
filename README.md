@@ -23,3 +23,4 @@
 ### Exploit Development
 - [Mona.py Manual](https://www.corelan.be/index.php/2011/07/14/mona-py-the-manual/) - guide to the mona.py pycommand for Immunity Debugger
 - [Corelan Exploit Development Tutorials](https://www.corelan.be/index.php/category/security/exploit-writing-tutorials/page/4/) - starting at the oldest and working toward the newer material, these tutorials begin with stack buffer overflow-based exploits and get progressively more complex
+- [0x7 Exploit Tutorial: Bad Character Analysis](http://www.primalsecurity.net/0x7-exploit-tutorial-bad-character-analysis/) - A brief tutorial on bad character analysis for shellcode development
