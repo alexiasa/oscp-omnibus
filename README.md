@@ -38,3 +38,6 @@ I've been spending a lot of time reading up on pointers in C for this section.
 ### Privilege Escalation
 - [Accessing and Hacking MSSQL from Backtrack Linux](https://www.adampalmer.me/iodigitalsec/2013/08/10/accessing-and-hacking-mssql-from-backtrack-linux/) - Good info about sqsh and xp_cmdshell
 - [SQL Cheat Sheet](http://www.sqltutorial.org/sql-cheat-sheet/)
+
+### Client Side Attacks
+- [icacls](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/icacls#remarks) - lists all the possible permissions
