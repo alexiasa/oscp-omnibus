@@ -40,4 +40,4 @@ I've been spending a lot of time reading up on pointers in C for this section.
 - [SQL Cheat Sheet](http://www.sqltutorial.org/sql-cheat-sheet/)
 
 ### Client Side Attacks
-- [icacls](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/icacls#remarks) - lists all the possible permissions you might see when runnning icacls against a file
+- [icacls](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/icacls#remarks) - lists all the possible permissions you might see when running icacls against a file
