@@ -26,7 +26,7 @@
 - [0x7 Exploit Tutorial: Bad Character Analysis](http://www.primalsecurity.net/0x7-exploit-tutorial-bad-character-analysis/) - A brief tutorial on bad character analysis for shellcode development
 
 ### Working with Exploits
-I've been spending a lot of time reading up on pointers in C for this section. 
+I've been spending a lot of time reading up on pointers in C for this section.
 - [The Basics and Pitfalls of Pointers in C](https://hackaday.com/2018/04/04/the-basics-and-pitfalls-of-pointers-in-c/)
 - [When 4 + 1 Equals 8: An Advanced Take on Pointers in C](https://hackaday.com/2018/04/19/when-4-1-equals-8-an-advanced-take-on-pointers-in-c/)
 - [C Pointer Arithmetic](https://www.tutorialspoint.com/cprogramming/c_pointer_arithmetic.htm)
@@ -46,5 +46,5 @@ I've been spending a lot of time reading up on pointers in C for this section.
 - [XSS Filter Evasion Cheat Sheet - OWASP](https://www.owasp.org/index.php/XSS_Filter_Evasion_Cheat_Sheet) - XSS filter evasion techniques
 
 ### Tunneling and Port Redirection
-- [Dynamic Port Forwarding (SSH)](https://netsec.ws/?p=278) - a brief walkthrough of dynamic SSH port forwarding with proxychains
+- [Dynamic Port Forwarding (SSH)](https://netsec.ws/?p=278) - brief walkthrough of dynamic SSH port forwarding with proxychains
 - [Evading Filters with Traffic Tunnels](https://implicitdeny.org/2016/08/evading-filters-traffic-tunnels/)
