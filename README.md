@@ -47,3 +47,4 @@ I've been spending a lot of time reading up on pointers in C for this section.
 
 ### Tunneling and Port Redirection
 - [Dynamic Port Forwarding (SSH)](https://netsec.ws/?p=278) - a brief walkthrough of dynamic SSH port forwarding with proxychains
+- [Evading Filters with Traffic Tunnels](https://implicitdeny.org/2016/08/evading-filters-traffic-tunnels/)
