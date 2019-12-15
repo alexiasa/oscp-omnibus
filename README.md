@@ -48,3 +48,5 @@ I've been spending a lot of time reading up on pointers in C for this section.
 ### Tunneling and Port Redirection
 - [Dynamic Port Forwarding (SSH)](https://netsec.ws/?p=278) - brief walkthrough of dynamic SSH port forwarding with proxychains
 - [Evading Filters with Traffic Tunnels](https://implicitdeny.org/2016/08/evading-filters-traffic-tunnels/)
+- [How to tunnel SSH over SSL/TLS](https://gist.github.com/bwann/82ed679e94972666808d97587d276677)  - quick guide to client and server setup of stunnel
+- [Using Stunnel](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/7/html/security_guide/sec-using_stunnel) - red hat stunnel docs
