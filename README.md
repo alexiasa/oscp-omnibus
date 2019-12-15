@@ -41,3 +41,9 @@ I've been spending a lot of time reading up on pointers in C for this section.
 
 ### Client Side Attacks
 - [icacls](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/icacls#remarks) - lists all the possible permissions you might see when running icacls against a file
+
+### Web Application Attacks
+- [XSS Filter Evasion Cheat Sheet - OWASP](https://www.owasp.org/index.php/XSS_Filter_Evasion_Cheat_Sheet) - XSS filter evasion techniques
+
+### Tunneling and Port Redirection
+- [Dynamic Port Forwarding (SSH)](https://netsec.ws/?p=278) - a brief walkthrough of dynamic SSH port forwarding with proxychains
