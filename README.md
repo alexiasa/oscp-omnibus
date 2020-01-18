@@ -50,3 +50,10 @@ I've been spending a lot of time reading up on pointers in C for this section.
 - [Evading Filters with Traffic Tunnels](https://implicitdeny.org/2016/08/evading-filters-traffic-tunnels/)
 - [How to tunnel SSH over SSL/TLS](https://gist.github.com/bwann/82ed679e94972666808d97587d276677)  - quick guide to client and server setup of stunnel
 - [Using Stunnel](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/7/html/security_guide/sec-using_stunnel) - red hat stunnel docs
+
+### Metasploit
+- [Metasploit Cheat Sheet](https://www.sans.org/security-resources/sec560/misc_tools_sheet_v1.pdf)
+
+---
+### Other Random Stuff
+- [Mimikatz Cheat Sheet](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Windows%20-%20Mimikatz.md)
