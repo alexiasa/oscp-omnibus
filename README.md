@@ -53,6 +53,7 @@ I've been spending a lot of time reading up on pointers in C for this section.
 
 ### Metasploit
 - [Metasploit Cheat Sheet](https://www.sans.org/security-resources/sec560/misc_tools_sheet_v1.pdf)
+- [Shikata Ga Nai Encoder Still Going Strong](https://www.fireeye.com/blog/threat-research/2019/10/shikata-ga-nai-encoder-still-going-strong.html) - a defender's take on Shikata Ga Nai
 
 ---
 ### Other Random Stuff
