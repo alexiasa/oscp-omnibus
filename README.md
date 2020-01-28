@@ -12,6 +12,7 @@
 #### Active
 - [Hackertarget Nmap Cheat Sheet](https://hackertarget.com/nmap-cheatsheet-a-quick-reference-guide/) - handy guide to Nmap commands
 - [smb NSE Library](https://nmap.org/nsedoc/lib/smb.html#script-args) - pretty much all the details you'd ever need to know about interacting with SMB via Nmap Scripting Engine
+- [A New Look at Null Sessions and User Enumeration](https://sensepost.com/blog/2018/a-new-look-at-null-sessions-and-user-enumeration/) - if you regularly use enum4linux or rpcclient, then read this! it may save you from false negatives.
 
 ### Vulns
 - [IP Traffic Accounting with iptables](https://www.cyberciti.biz/faq/linux-configuring-ip-traffic-accounting/) - all about traffic accounting with iptables
@@ -54,6 +55,7 @@ I've been spending a lot of time reading up on pointers in C for this section.
 ### Metasploit
 - [Metasploit Cheat Sheet](https://www.sans.org/security-resources/sec560/misc_tools_sheet_v1.pdf)
 - [Shikata Ga Nai Encoder Still Going Strong](https://www.fireeye.com/blog/threat-research/2019/10/shikata-ga-nai-encoder-still-going-strong.html) - a good post from FireEye on Shikata Ga Nai
+- [Porting Exploits - Metasploit Unleashed](https://www.offensive-security.com/metasploit-unleashed/porting-exploits/)
 
 ---
 ### Other Random Stuff
