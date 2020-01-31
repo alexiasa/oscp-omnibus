@@ -35,6 +35,7 @@ I've been spending a lot of time reading up on pointers in C for this section.
 ### Post-Exploitation
 - [Transferring Files from Kali to Windows](https://blog.ropnop.com/transferring-files-from-kali-to-windows/) - I like the Python webserver one-liner
 - [Upgrading Simple Shells to Fully Interactive TTYs](https://blog.ropnop.com/upgrading-simple-shells-to-fully-interactive-ttys/)
+- [Flying a Cylon Raider](https://blog.cobaltstrike.com/2015/11/18/flying-a-cylon-raider/) - post-exploitation without Meterpreter
 
 ### Privilege Escalation
 - [Accessing and Hacking MSSQL from Backtrack Linux](https://www.adampalmer.me/iodigitalsec/2013/08/10/accessing-and-hacking-mssql-from-backtrack-linux/) - Good info about sqsh and xp_cmdshell
