@@ -1,0 +1,286 @@
+[global_config]
+  window_state = maximise
+[keybindings]
+[layouts]
+  [[default]]
+    [[[child0]]]
+      fullscreen = False
+      last_active_window = True
+      maximised = True
+      order = 0
+      parent = ""
+      position = 51:27
+      size = 1869, 1021
+      title = root@kali: ~/.config/terminator
+      type = Window
+    [[[child1]]]
+      active_page = 3
+      labels = rdesktop/notes/reference, web server/staging, utility, exploitation/host management/listeners
+      last_active_term = 99aab02b-2b5d-4a26-8a30-c994971e6de4, 2ac1adb2-bf55-4132-b895-cec0d3f0ffc6, 17fbc375-8768-479c-814d-361068c2d749, c890bdf1-b28c-4800-af7f-5f5f8b80f048
+      order = 0
+      parent = child0
+      type = Notebook
+    [[[child12]]]
+      order = 2
+      parent = child1
+      position = 932
+      ratio = 0.500537056928
+      type = HPaned
+    [[[child13]]]
+      order = 0
+      parent = child12
+      position = 487
+      ratio = 0.49693877551
+      type = VPaned
+    [[[child17]]]
+      order = 3
+      parent = child1
+      position = 571
+      ratio = 0.582653061224
+      type = VPaned
+    [[[child19]]]
+      order = 1
+      parent = child17
+      position = 929
+      ratio = 0.498925886144
+      type = HPaned
+    [[[child2]]]
+      order = 0
+      parent = child1
+      position = 315
+      ratio = 0.321428571429
+      type = VPaned
+    [[[child3]]]
+      order = 0
+      parent = child2
+      position = 491
+      ratio = 0.263694951665
+      type = HPaned
+    [[[child7]]]
+      order = 1
+      parent = child1
+      position = 586
+      ratio = 0.314715359828
+      type = HPaned
+    [[[child8]]]
+      order = 0
+      parent = child7
+      position = 487
+      ratio = 0.49693877551
+      type = VPaned
+    [[[terminal10]]]
+      order = 1
+      parent = child8
+      profile = default
+      type = Terminal
+      uuid = 23942cb6-f61e-4ff2-8ce0-86b3f17925c9
+    [[[terminal11]]]
+      order = 1
+      parent = child7
+      profile = default
+      type = Terminal
+      uuid = 40858872-b7d2-477c-a8d5-7c01fa3c9549
+    [[[terminal14]]]
+      order = 0
+      parent = child13
+      profile = default
+      type = Terminal
+      uuid = a163be76-6739-499a-84b9-7bac53d9d609
+    [[[terminal15]]]
+      order = 1
+      parent = child13
+      profile = default
+      type = Terminal
+      uuid = cec61ba4-ff70-43e2-9e65-06e6c5dc94da
+    [[[terminal16]]]
+      order = 1
+      parent = child12
+      profile = default
+      type = Terminal
+      uuid = 17fbc375-8768-479c-814d-361068c2d749
+    [[[terminal18]]]
+      order = 0
+      parent = child17
+      profile = default
+      type = Terminal
+      uuid = d95b8cde-9ee3-4694-bc59-129cc843f5c1
+    [[[terminal20]]]
+      order = 0
+      parent = child19
+      profile = default
+      type = Terminal
+      uuid = c890bdf1-b28c-4800-af7f-5f5f8b80f048
+    [[[terminal21]]]
+      order = 1
+      parent = child19
+      profile = default
+      type = Terminal
+      uuid = 20418e42-c4df-4daf-8678-ad04423266f6
+    [[[terminal4]]]
+      order = 0
+      parent = child3
+      profile = default
+      type = Terminal
+      uuid = 99aab02b-2b5d-4a26-8a30-c994971e6de4
+    [[[terminal5]]]
+      order = 1
+      parent = child3
+      profile = default
+      type = Terminal
+      uuid = 2c8f25e6-dd7a-43eb-bb70-f9eb42e290eb
+    [[[terminal6]]]
+      order = 1
+      parent = child2
+      profile = default
+      type = Terminal
+      uuid = fda5d45d-787a-4579-a35f-2e76c871f2d6
+    [[[terminal9]]]
+      order = 0
+      parent = child8
+      profile = default
+      type = Terminal
+      uuid = 2ac1adb2-bf55-4132-b895-cec0d3f0ffc6
+  [[hacktime]]
+    [[[child0]]]
+      fullscreen = False
+      last_active_window = True
+      maximised = False
+      order = 0
+      parent = ""
+      position = 51:59
+      size = 1789, 973
+      title = root@kali: ~/.config/terminator
+      type = Window
+    [[[child1]]]
+      active_page = 3
+      labels = rdesktop/notes/reference, web server/staging, utility, exploitation/host management/listeners
+      last_active_term = 99aab02b-2b5d-4a26-8a30-c994971e6de4, 2ac1adb2-bf55-4132-b895-cec0d3f0ffc6, 17fbc375-8768-479c-814d-361068c2d749, d95b8cde-9ee3-4694-bc59-129cc843f5c1
+      order = 0
+      parent = child0
+      type = Notebook
+    [[[child12]]]
+      order = 2
+      parent = child1
+      position = 895
+      ratio = 0.502244668911
+      type = HPaned
+    [[[child13]]]
+      order = 0
+      parent = child12
+      position = 466
+      ratio = 0.5
+      type = VPaned
+    [[[child17]]]
+      order = 3
+      parent = child1
+      position = 466
+      ratio = 0.5
+      type = VPaned
+    [[[child19]]]
+      order = 1
+      parent = child17
+      position = 891
+      ratio = 0.5
+      type = HPaned
+    [[[child2]]]
+      order = 0
+      parent = child1
+      position = 301
+      ratio = 0.322961373391
+      type = VPaned
+    [[[child3]]]
+      order = 0
+      parent = child2
+      position = 471
+      ratio = 0.26430976431
+      type = HPaned
+    [[[child7]]]
+      order = 1
+      parent = child1
+      position = 561
+      ratio = 0.314814814815
+      type = HPaned
+    [[[child8]]]
+      order = 0
+      parent = child7
+      position = 466
+      ratio = 0.5
+      type = VPaned
+    [[[terminal10]]]
+      order = 1
+      parent = child8
+      profile = default
+      type = Terminal
+      uuid = 23942cb6-f61e-4ff2-8ce0-86b3f17925c9
+    [[[terminal11]]]
+      order = 1
+      parent = child7
+      profile = default
+      type = Terminal
+      uuid = 40858872-b7d2-477c-a8d5-7c01fa3c9549
+    [[[terminal14]]]
+      order = 0
+      parent = child13
+      profile = default
+      type = Terminal
+      uuid = a163be76-6739-499a-84b9-7bac53d9d609
+    [[[terminal15]]]
+      order = 1
+      parent = child13
+      profile = default
+      type = Terminal
+      uuid = cec61ba4-ff70-43e2-9e65-06e6c5dc94da
+    [[[terminal16]]]
+      order = 1
+      parent = child12
+      profile = default
+      type = Terminal
+      uuid = 17fbc375-8768-479c-814d-361068c2d749
+    [[[terminal18]]]
+      order = 0
+      parent = child17
+      profile = default
+      type = Terminal
+      uuid = d95b8cde-9ee3-4694-bc59-129cc843f5c1
+    [[[terminal20]]]
+      order = 0
+      parent = child19
+      profile = default
+      type = Terminal
+      uuid = c890bdf1-b28c-4800-af7f-5f5f8b80f048
+    [[[terminal21]]]
+      order = 1
+      parent = child19
+      profile = default
+      type = Terminal
+      uuid = 20418e42-c4df-4daf-8678-ad04423266f6
+    [[[terminal4]]]
+      order = 0
+      parent = child3
+      profile = default
+      type = Terminal
+      uuid = 99aab02b-2b5d-4a26-8a30-c994971e6de4
+    [[[terminal5]]]
+      order = 1
+      parent = child3
+      profile = default
+      type = Terminal
+      uuid = 2c8f25e6-dd7a-43eb-bb70-f9eb42e290eb
+    [[[terminal6]]]
+      order = 1
+      parent = child2
+      profile = default
+      type = Terminal
+      uuid = fda5d45d-787a-4579-a35f-2e76c871f2d6
+    [[[terminal9]]]
+      order = 0
+      parent = child8
+      profile = default
+      type = Terminal
+      uuid = 2ac1adb2-bf55-4132-b895-cec0d3f0ffc6
+[plugins]
+[profiles]
+  [[default]]
+    cursor_color = "#aaaaaa"
+    foreground_color = "#00ff00"
+    split_to_group = True
