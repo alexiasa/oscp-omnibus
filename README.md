@@ -33,18 +33,32 @@ I've been spending a lot of time reading up on pointers in C for this section.
 - [C Pointer Arithmetic](https://www.tutorialspoint.com/cprogramming/c_pointer_arithmetic.htm)
 
 ### Post-Exploitation
+#### Upgrading Shells & Transferring Files
 - [Transferring Files from Kali to Windows](https://blog.ropnop.com/transferring-files-from-kali-to-windows/) - I like the Python webserver one-liner
 - [Upgrading Simple Shells to Fully Interactive TTYs](https://blog.ropnop.com/upgrading-simple-shells-to-fully-interactive-ttys/)
 - [Spawning a TTY Shell](https://netsec.ws/?p=337)
 - [Flying a Cylon Raider](https://blog.cobaltstrike.com/2015/11/18/flying-a-cylon-raider/) - post-exploitation without Meterpreter
 - [PowerShell Download Cradles](https://gist.github.com/HarmJ0y/bb48307ffa663256e239)
 
-### Privilege Escalation
+#### SQL
 - [Accessing and Hacking MSSQL from Backtrack Linux](https://www.adampalmer.me/iodigitalsec/2013/08/10/accessing-and-hacking-mssql-from-backtrack-linux/) - Good info about sqsh and xp_cmdshell
 - [SQL Cheat Sheet](http://www.sqltutorial.org/sql-cheat-sheet/)
 
-### Client Side Attacks
+### Privilege Escalation
+#### Windows
+- [PayloadsAllTheThings - Windows Privilege Escalation](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Windows%20-%20Privilege%20Escalation.md) - explanations and tools for lots of privesc methods
+- [Windows Privilege Escalation Techniques and Scripts](https://github.com/frizb/Windows-Privilege-Escalation) - detailed writeup of privesc methods
+- [Windows Privilege Escalation - An Approach for Penetration Testers](https://sec-consult.com/en/blog/2019/04/windows-privilege-escalation-an-approach-for-penetration-testers/)
 - [icacls](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/icacls#remarks) - lists all the possible permissions you might see when running icacls against a file
+
+##### Scripts/Executables
+- [PowerUp.ps1](https://github.com/PowerShellMafia/PowerSploit/blob/master/Privesc/PowerUp.ps1) - privesc script from the PowerSploit project
+- [Windows Privesc Check](https://github.com/pentestmonkey/windows-privesc-check) - EXE that checks for common privesc opportunities
+- [SessionGopher](https://github.com/Arvanaghi/SessionGopher) - script for digging up stored session information
+- [Powerless](https://github.com/M4ximuss/Powerless) - script for privesc in environments that lack PowerShell
+
+#### Linux
+- [LinEnum.sh](https://github.com/rebootuser/LinEnum) - privesc shell script
 
 ### Web Application Attacks
 - [XSS Filter Evasion Cheat Sheet - OWASP](https://www.owasp.org/index.php/XSS_Filter_Evasion_Cheat_Sheet) - XSS filter evasion techniques
