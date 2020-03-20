@@ -37,7 +37,7 @@ I've been spending a lot of time reading up on pointers in C for this section.
 - [Transferring Files from Kali to Windows](https://blog.ropnop.com/transferring-files-from-kali-to-windows/) - I like the Python webserver one-liner
 - [Upgrading Simple Shells to Fully Interactive TTYs](https://blog.ropnop.com/upgrading-simple-shells-to-fully-interactive-ttys/)
 - [Spawning a TTY Shell](https://netsec.ws/?p=337)
-- [Flying a Cylon Raider](https://blog.cobaltstrike.com/2015/11/18/flying-a-cylon-raider/) - post-exploitation without Meterpreter
+- [Flying a Cylon Raider](https://blog.cobaltstrike.com/2015/11/18/flying-a-cylon-raider/) - video on post-exploitation without Meterpreter
 - [PowerShell Download Cradles](https://gist.github.com/HarmJ0y/bb48307ffa663256e239)
 
 #### SQL
@@ -59,6 +59,7 @@ I've been spending a lot of time reading up on pointers in C for this section.
 
 #### Linux
 - [LinEnum.sh](https://github.com/rebootuser/LinEnum) - privesc shell script
+- [Linux Privilege Escalation - Tradecraft Security Weekly #22](https://www.youtube.com/watch?v=oYHAi0cgur4) - video on Linux privesc techniques
 
 ### Web Application Attacks
 - [XSS Filter Evasion Cheat Sheet - OWASP](https://www.owasp.org/index.php/XSS_Filter_Evasion_Cheat_Sheet) - XSS filter evasion techniques
