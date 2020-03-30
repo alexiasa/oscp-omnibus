@@ -63,6 +63,7 @@ I've been spending a lot of time reading up on pointers in C for this section.
 
 ### Web Application Attacks
 - [XSS Filter Evasion Cheat Sheet - OWASP](https://www.owasp.org/index.php/XSS_Filter_Evasion_Cheat_Sheet) - XSS filter evasion techniques
+- [WordPress Vulnerability Discovery and Exploitation - Tradecraft Security Weekly #6](https://www.youtube.com/watch?v=yUIml8H1flI) - video on WordPress vulnerabilities (it's usually the plugins)
 
 ### Tunneling and Port Redirection
 - [Dynamic Port Forwarding (SSH)](https://netsec.ws/?p=278) - brief walkthrough of dynamic SSH port forwarding with proxychains
