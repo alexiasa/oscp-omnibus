@@ -13,6 +13,8 @@
 - [Hackertarget Nmap Cheat Sheet](https://hackertarget.com/nmap-cheatsheet-a-quick-reference-guide/) - handy guide to Nmap commands
 - [smb NSE Library](https://nmap.org/nsedoc/lib/smb.html#script-args) - pretty much all the details you'd ever need to know about interacting with SMB via Nmap Scripting Engine
 - [A New Look at Null Sessions and User Enumeration](https://sensepost.com/blog/2018/a-new-look-at-null-sessions-and-user-enumeration/) - if you regularly use enum4linux or rpcclient, then read this! it may save you from false negatives.
+- [AutoRecon](https://github.com/Tib3rius/AutoRecon) - a powerful, time-saving network recon tool 
+
 
 ### Vulns
 - [IP Traffic Accounting with iptables](https://www.cyberciti.biz/faq/linux-configuring-ip-traffic-accounting/) - all about traffic accounting with iptables
@@ -64,7 +66,7 @@ I've been spending a lot of time reading up on pointers in C for this section.
 ### Web Application Attacks
 - [XSS Filter Evasion Cheat Sheet - OWASP](https://www.owasp.org/index.php/XSS_Filter_Evasion_Cheat_Sheet) - XSS filter evasion techniques
 - [WordPress Vulnerability Discovery and Exploitation - Tradecraft Security Weekly #6](https://www.youtube.com/watch?v=yUIml8H1flI) - video on WordPress vulnerabilities (it's usually the plugins)
-
+- [Basic and Advanced SQL Injection Techniques](https://youtu.be/clU9ce3erVs) - video with good explanations of various types of SQL injection vulnerabilities and exploitation techniques
 ### Tunneling and Port Redirection
 - [Dynamic Port Forwarding (SSH)](https://netsec.ws/?p=278) - brief walkthrough of dynamic SSH port forwarding with proxychains
 - [Evading Filters with Traffic Tunnels](https://implicitdeny.org/2016/08/evading-filters-traffic-tunnels/)
