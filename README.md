@@ -62,6 +62,7 @@ I've been spending a lot of time reading up on pointers in C for this section.
 #### Linux
 - [LinEnum.sh](https://github.com/rebootuser/LinEnum) - privesc shell script
 - [Linux Privilege Escalation - Tradecraft Security Weekly #22](https://www.youtube.com/watch?v=oYHAi0cgur4) - video on Linux privesc techniques
+- [Linux Privilege Escalation for OSCP & Beyond!](https://www.udemy.com/share/101YYoA0QdcVZVQHQ=/) - Udemy course by [Tib3rius](https://twitter.com/TibSec)
 
 ### Web Application Attacks
 - [XSS Filter Evasion Cheat Sheet - OWASP](https://www.owasp.org/index.php/XSS_Filter_Evasion_Cheat_Sheet) - XSS filter evasion techniques
