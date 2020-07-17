@@ -52,6 +52,7 @@ I've been spending a lot of time reading up on pointers in C for this section.
 - [Windows Privilege Escalation Techniques and Scripts](https://github.com/frizb/Windows-Privilege-Escalation) - detailed writeup of privesc methods
 - [Windows Privilege Escalation - An Approach for Penetration Testers](https://sec-consult.com/en/blog/2019/04/windows-privilege-escalation-an-approach-for-penetration-testers/)
 - [icacls](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/icacls#remarks) - lists all the possible permissions you might see when running icacls against a file
+- [Windows Privilege Escalation for OSCP & Beyond!](https://www.udemy.com/course/windows-privilege-escalation/) -  Udemy course by [Tib3rius](https://twitter.com/TibSec)
 
 ##### Scripts/Executables
 - [PowerUp.ps1](https://github.com/PowerShellMafia/PowerSploit/blob/master/Privesc/PowerUp.ps1) - privesc script from the PowerSploit project
