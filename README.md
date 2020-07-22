@@ -41,6 +41,7 @@ I've been spending a lot of time reading up on pointers in C for this section.
 - [Spawning a TTY Shell](https://netsec.ws/?p=337)
 - [Flying a Cylon Raider](https://blog.cobaltstrike.com/2015/11/18/flying-a-cylon-raider/) - video on post-exploitation without Meterpreter
 - [PowerShell Download Cradles](https://gist.github.com/HarmJ0y/bb48307ffa663256e239)
+- [LOLBAS](https://lolbas-project.github.io/) - binaries, scripts, and libraries for living off the land in Windows
 
 #### SQL
 - [Accessing and Hacking MSSQL from Backtrack Linux](https://www.adampalmer.me/iodigitalsec/2013/08/10/accessing-and-hacking-mssql-from-backtrack-linux/) - Good info about sqsh and xp_cmdshell
@@ -62,6 +63,7 @@ I've been spending a lot of time reading up on pointers in C for this section.
 
 #### Linux
 - [LinEnum.sh](https://github.com/rebootuser/LinEnum) - privesc shell script
+- [GTFOBins](https://gtfobins.github.io/) - Unix binaries that can be used to bypass security restrictions and sometimes escalate privileges
 - [Linux Privilege Escalation - Tradecraft Security Weekly #22](https://www.youtube.com/watch?v=oYHAi0cgur4) - video on Linux privesc techniques
 - [Linux Privilege Escalation for OSCP & Beyond!](https://www.udemy.com/share/101YYoA0QdcVZVQHQ=/) - Udemy course by [Tib3rius](https://twitter.com/TibSec)
 
