@@ -1,3 +1,5 @@
+# OSCP omnibus
+a collection of OSCP resources for everyone 📚
 
 ## Books
 - [Network Security Assessment, 2nd Ed.](http://shop.oreilly.com/product/9780596510305.do)
