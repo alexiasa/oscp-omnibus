@@ -88,3 +88,4 @@ I've been spending a lot of time reading up on pointers in C for this section.
 ---
 ### Other Random Stuff
 - [Mimikatz Cheat Sheet](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Windows%20-%20Mimikatz.md)
+- [basic terminator config](https://github.com/alexiasa/oscp-omnibus/blob/master/terminator_config) - multi-tab, multi-pane terminator config with installation instructions [here](https://github.com/alexiasa/oscp-omnibus/blob/master/terminator_config.md)
