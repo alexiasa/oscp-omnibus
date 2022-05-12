@@ -65,6 +65,7 @@ I've been spending a lot of time reading up on pointers in C for this section.
 - [Powerless](https://github.com/M4ximuss/Powerless) - script for privesc in environments that lack PowerShell
 
 #### Linux
+- [PayloadsAllTheThings - Linux Privilege Escalation](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Linux%20-%20Privilege%20Escalation.md) - explanations and tools for lots of privesc methods
 - [LinEnum.sh](https://github.com/rebootuser/LinEnum) - privesc shell script
 - [GTFOBins](https://gtfobins.github.io/) - Unix binaries that can be used to bypass security restrictions and sometimes escalate privileges
 - [Linux Privilege Escalation - Tradecraft Security Weekly #22](https://www.youtube.com/watch?v=oYHAi0cgur4) - video on Linux privesc techniques
