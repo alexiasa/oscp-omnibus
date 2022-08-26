@@ -35,6 +35,7 @@ I've been spending a lot of time reading up on pointers in C for this section.
 - [The Basics and Pitfalls of Pointers in C](https://hackaday.com/2018/04/04/the-basics-and-pitfalls-of-pointers-in-c/)
 - [When 4 + 1 Equals 8: An Advanced Take on Pointers in C](https://hackaday.com/2018/04/19/when-4-1-equals-8-an-advanced-take-on-pointers-in-c/)
 - [C Pointer Arithmetic](https://www.tutorialspoint.com/cprogramming/c_pointer_arithmetic.htm)
+- [Learn about pointers in C](https://www.scaler.com/topics/c/pointers-in-c/)
 
 ### Post-Exploitation
 #### Upgrading Shells & Transferring Files
